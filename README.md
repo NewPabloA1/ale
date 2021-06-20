@@ -10,7 +10,7 @@ apt install git -y
 apt install nodejs -y
 apt install ffmpeg -y
 apt install imagemagick -y
-git clone https://github.com/maicosilver/botmod9
+git clone https://github.com/NewPabloA1/ale
 cd botmod9
 npm install
 ```
